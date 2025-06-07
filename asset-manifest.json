@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/professional-chess-game/static/css/main.a9269226.css",
+    "main.js": "/professional-chess-game/static/js/main.c7d32b9e.js",
+    "static/js/453.b894f477.chunk.js": "/professional-chess-game/static/js/453.b894f477.chunk.js",
+    "index.html": "/professional-chess-game/index.html",
+    "main.a9269226.css.map": "/professional-chess-game/static/css/main.a9269226.css.map",
+    "main.c7d32b9e.js.map": "/professional-chess-game/static/js/main.c7d32b9e.js.map",
+    "453.b894f477.chunk.js.map": "/professional-chess-game/static/js/453.b894f477.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9269226.css",
+    "static/js/main.c7d32b9e.js"
+  ]
+}
