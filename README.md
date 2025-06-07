@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub**: [@Alan3210](https://github.com/Alan3210)
-- **Email**: your.email@example.com
+- **Email**: alan.kodzayev@gmail.com
 
 ---
 
