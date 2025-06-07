@@ -14,13 +14,13 @@
   ],
   "author": "Your Name",
   "license": "MIT",
-  "homepage": "https://yourusername.github.io/professional-chess-game",
+  "homepage": "https://Alan3210.github.io/professional-chess-game",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/professional-chess-game.git"
+    "url": "https://github.com/Alan3210/professional-chess-game.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/professional-chess-game/issues"
+    "url": "https://github.com/Alan3210/professional-chess-game/issues"
   },
   "private": false,
   "dependencies": {

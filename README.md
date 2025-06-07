@@ -64,8 +64,8 @@ A stunning, feature-rich chess game built with React featuring professional-grad
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mychessgame.git
-   cd mychessgame
+   git clone https://github.com/Alan3210/professional-chess-game.git
+   cd professional-chess-game
    ```
 
 2. **Install dependencies**
@@ -171,7 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: [@Alan3210](https://github.com/Alan3210)
 - **Email**: your.email@example.com
 
 ---
