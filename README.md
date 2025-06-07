@@ -2,8 +2,6 @@
 
 A stunning, feature-rich chess game built with React featuring professional-grade gameplay, beautiful animations, and immersive sound effects.
 
-![Chess Game Launch](https://Alan3210.github.io/professional-chess-game)
-
 ## ✨ Features
 
 ### 🎮 Complete Chess Experience
